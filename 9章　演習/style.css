@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #6c6b6b;
+}
+
+.header {
+  height: 50px;
+  background-color: #ff9a4b;
+}
+main {
+  display: flex;
+  justify-content: center;
+  width: 960px;
+  margin: 50px auto;
+}
+.box {
+  width: 300px;
+  background-color: #eeeeee;
+  margin: 0 30px;
+}
+.image-boxs {
+  padding: 10px;
+}
+.step {
+  background-color: #ff9a4b;
+  position: absolute;
+  color: #fff;
+}
+img {
+  width: 280px;
+  height: 150px;
+}
+h3 {
+  margin: 5px 0;
+}
+
+p {
+  font-size: 12px;
+}
+
+.footer {
+  height: 50px;
+  background-color: #aaaaaa;
+}
